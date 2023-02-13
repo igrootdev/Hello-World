@@ -1,2 +1,1 @@
-# Hello-World
-Primeiro Hello World para atividade da Cubos Academy
+# Esse Repositório, trata-se de uma atividade da aula do Curso da Cubos Academy de Desenvolvimento de Software Backend
