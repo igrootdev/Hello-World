@@ -1,1 +1,1 @@
-# Esse Repositório, trata-se de uma atividade da aula do Curso da Cubos Academy de Desenvolvimento de Software Backend
+Atividade da aula do Curso de Desenvolvimento de Software Backend da Cubos Academy
